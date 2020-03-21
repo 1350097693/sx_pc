@@ -1,0 +1,6 @@
+.rightside {
+    flex: 1;
+    width: calc(84% - 40px);
+    padding: 20px;
+    height:calc(100vh - 105px)
+  }

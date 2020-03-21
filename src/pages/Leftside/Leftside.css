@@ -1,0 +1,22 @@
+.leftside {
+  width: 16%;
+  height: calc(100vh - 65px);
+  background-color: rgb(71, 70, 70);
+}
+.list-item {
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list-item:hover{
+  background-color: rgb(150, 150, 150);
+}
+.list-item-active{
+  background-color: rgb(150, 150, 150);
+}
+.icon{
+    width: 20px;
+    height:20px;
+    background-color: tomato;
+}

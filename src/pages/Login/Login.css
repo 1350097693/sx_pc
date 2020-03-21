@@ -1,0 +1,32 @@
+.login{
+    color:black;
+    height:100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-middle{
+    width: 1200px;
+    margin: 0 auto;
+    height: 600px;
+    background-color: darkgreen;
+    position: relative;
+}
+.login-card{
+    width: 330px;
+    overflow: hidden;
+    position: absolute;
+    right: 15%;
+    top: 20%;
+    background-color: darkorchid;
+    padding: 25px;
+}
+.login-btn{
+    width: 100%;
+}
+.login-title{
+    margin-top: -60px;
+    margin-left: 30px;
+    color: #f0ad4e;
+}
